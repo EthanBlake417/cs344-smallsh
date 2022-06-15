@@ -3,8 +3,8 @@ This C Program mimics some of the Linux bash shell functionalities
 
 These functionalities include:
 1. ls
-2. >>
-3. <
+2. $$ which returns the current pid
+3. < and >
 4. cat
 5. status
 6. background tasks
