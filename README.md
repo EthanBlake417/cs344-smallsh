@@ -3,7 +3,7 @@ This C Program mimics some of the Linux bash shell functionalities
 
 These functionalities include:
 1. ls
-2. >
+2. >>
 3. <
 4. cat
 5. status
